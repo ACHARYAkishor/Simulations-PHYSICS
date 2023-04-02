@@ -1,0 +1,5 @@
+If wanted to visualize the output (deploy voila in local server), please follow these steps:
+
+- Open your command prompt (Windows) or terminal (macOS/Linux).
+- Navigate to the folder where your "harmonic_oscillator.ipynb" notebook is located.
+- Run the following command:voila harmonic_oscillator.ipynb
